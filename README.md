@@ -5,3 +5,7 @@ Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/)
 to illustrate how new object classes can be introduced and learned iteratively,
 with the learner following an active learning strategy, and with input provided
 by a human trainer.
+
+Here's a schematic:
+
+![architecture](tf-active.png)
