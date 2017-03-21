@@ -18,3 +18,4 @@ Here's a schematic:
 
 * [https://cloud.google.com/ml-engine/docs/how-tos/getting-started-training-prediction](https://cloud.google.com/ml-engine/docs/how-tos/getting-started-training-prediction)
 
+* [https://cloud.google.com/storage/docs/quickstart-gsutil](https://cloud.google.com/storage/docs/quickstart-gsutil)
